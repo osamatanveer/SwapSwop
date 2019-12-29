@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "362448370132",
+    "firebase_url": "https://swapswop-23e02.firebaseio.com",
+    "project_id": "swapswop-23e02",
+    "storage_bucket": "swapswop-23e02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362448370132:android:b618e5f9970af695",
+        "android_client_info": {
+          "package_name": "com.example.swapswop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362448370132-816iku635vpcngcksf7j17nes0u5o6mh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.swapswop",
+            "certificate_hash": "3ae4144fe5bce10bafb615e3ec499385ca3f43f7"
+          }
+        },
+        {
+          "client_id": "362448370132-0kckapl56301f8ha9ej7rt58vrgbvq12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_sBAdETEVkglNBbFVo8JLaMfxFqy8C_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362448370132-0kckapl56301f8ha9ej7rt58vrgbvq12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

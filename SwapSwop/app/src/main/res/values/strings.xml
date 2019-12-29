@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SwapSwop</string>
+    <string-array name="preferences">
+        <item>Title: Alphabetically Ascending</item>
+        <item>Title: Alphabetically Descending</item>
+
+        <item>Rating: Low to High</item>
+        <item>Rating: High to Low</item>
+
+    </string-array>
+
+    <string-array name="categories">
+        <item>Item</item>
+        <item>Task</item>
+    </string-array>
+
+    <string name="title_activity_register">RegisterActivity</string>
+
+    <string name="dialog_select_photo">SelectPhoto</string>
+
+    <string name="text_view_datentime">TextView</string>
+    <string name="text_view_title">TextView</string>
+    <string name="image_view_post_picture">TODO</string>
+    <string name="image_view_profile_picture">TODO</string>
+    <string name="text_view_description">TextView</string>
+
+</resources>
